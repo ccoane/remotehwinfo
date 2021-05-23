@@ -1,0 +1,3 @@
+port=COM4
+CPU CCD1 (Tdie)=0
+GPU Temperature=1
